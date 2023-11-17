@@ -17,3 +17,4 @@ void loop() {
   Serial.print(static_variable);
 }
 ##Fix typo
+Fix typo Second
